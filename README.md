@@ -1,3 +1,5 @@
+[![test](https://github.com/yutaroyamanaka/orphan-service-conftest/actions/workflows/test.yaml/badge.svg)](https://github.com/yutaroyamanaka/orphan-service-conftest/actions/workflows/test.yaml)
+
 # orphan-service-conftest
 
 This conftest sets up the policy to ensure that developers associate services with the appropriate ingress.
