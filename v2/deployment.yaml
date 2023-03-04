@@ -1,0 +1,12 @@
+apiVersion: apps/v2
+kind: Deployment
+metadata:
+  name: app-v2
+spec:
+  template:
+    spec:
+      containers:
+      - name: app-v2
+        image: nginx
+        ports:
+        - containerPort: 80
